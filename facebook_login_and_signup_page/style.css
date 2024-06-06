@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: #415e9b;
+    height: 98px;
+    border-bottom: 1px solid #133783 ;
+}
+.header-block{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.logo{
+width: 23%;
+float: left;
+height: 78px ;
+
+
+}
+.facebook-login{
+    width: 39%;
+    float: left;
+    padding-left: 40px;
+    margin-left: 280px;
+   
+}
+
+
+.header-block label{
+    color: #fff;
+}
+.ho{
+    color: white;
+}
+.email{
+    float: left;
+}
+.email input[type="text"]{
+height: 20px;
+width: 150px;
+}
+.email label{
+    padding-bottom: 10px;
+}
+.password input[type="password"]{
+    height: 21px;
+    width: 150px;   
+    border: 1px solid #1d2a5b;
+}
+.password label{
+    padding-bottom: 10px;
+}
+
+.password{
+    float: left;   
+    margin-left: 15px;
+}
+.password a{
+    color: #8fc2d8;
+    text-decoration: none ;
+    
+}
+
+.login_button{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.login_button input[type="submit"]{
+    background: #4267b2;
+    border: 1px solid #4267b2;
+    border-radius: 2px;
+    width: 50px;
+    height: 20px;
+    color: #fff;
+}
+
+.world{
+    margin: 30px;
+    height: 300px;
+    width: 560px;
+    float: left;
+}
+.create-account{
+   
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 700px;
+}
+.name{
+    width: 190px;
+    height: 25px;
+  
+}
+.number{
+    width: 390px;
+    height: 25px;
+}
+.head{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ok{
+    font-size: 17px;
+    color: #3677bc;
+}
+.gender{
+    font-size: 18px ;
+}
+.radio{
+    font-size: 17px ;
+}
+.right{
+    font-size: 17px;
+}
+.account{
+ border: 1px solid #5dcf25;
+ border-radius: 6px;
+ margin-top: 30px;
+ margin-bottom: 18px;
+ padding: 19px 20px 26px 16px;
+ font-size: 25px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color:white;
+ font-weight: 600;
+ width: 200px;
+ background: linear-gradient(#60d133 , #51ac38);
+
+}
+.last{
+    font-size: 17px;
+}
+.page{
+    font-size: 17px;
+    color: #3677bc;
+    
+}
